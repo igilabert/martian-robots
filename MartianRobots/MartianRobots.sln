@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MartianRobots", "MartianRobots\MartianRobots.csproj", "{0D24FE5A-5F00-41C1-A7D2-70FC824B051B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MartianRobotsTests", "MartianRobotsTests\MartianRobotsTests.csproj", "{7E3688AA-A2D3-4523-BCF6-BCF2EFA920CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D24FE5A-5F00-41C1-A7D2-70FC824B051B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D24FE5A-5F00-41C1-A7D2-70FC824B051B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D24FE5A-5F00-41C1-A7D2-70FC824B051B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D24FE5A-5F00-41C1-A7D2-70FC824B051B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E3688AA-A2D3-4523-BCF6-BCF2EFA920CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E3688AA-A2D3-4523-BCF6-BCF2EFA920CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E3688AA-A2D3-4523-BCF6-BCF2EFA920CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E3688AA-A2D3-4523-BCF6-BCF2EFA920CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B98A02F-FA7A-4190-A566-2FE17E4487E0}
+	EndGlobalSection
+EndGlobal

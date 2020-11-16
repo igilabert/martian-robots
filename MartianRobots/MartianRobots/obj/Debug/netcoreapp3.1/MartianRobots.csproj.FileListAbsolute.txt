@@ -1,0 +1,15 @@
+C:\Users\IGSabio\Desktop\martian-robots\MartianRobots\MartianRobots\bin\Debug\netcoreapp3.1\MartianRobots.exe
+C:\Users\IGSabio\Desktop\martian-robots\MartianRobots\MartianRobots\obj\Debug\netcoreapp3.1\MartianRobots.csprojAssemblyReference.cache
+C:\Users\IGSabio\Desktop\martian-robots\MartianRobots\MartianRobots\obj\Debug\netcoreapp3.1\MartianRobots.AssemblyInfoInputs.cache
+C:\Users\IGSabio\Desktop\martian-robots\MartianRobots\MartianRobots\obj\Debug\netcoreapp3.1\MartianRobots.AssemblyInfo.cs
+C:\Users\IGSabio\Desktop\martian-robots\MartianRobots\MartianRobots\bin\Debug\netcoreapp3.1\MartianRobots.deps.json
+C:\Users\IGSabio\Desktop\martian-robots\MartianRobots\MartianRobots\bin\Debug\netcoreapp3.1\MartianRobots.runtimeconfig.json
+C:\Users\IGSabio\Desktop\martian-robots\MartianRobots\MartianRobots\bin\Debug\netcoreapp3.1\MartianRobots.runtimeconfig.dev.json
+C:\Users\IGSabio\Desktop\martian-robots\MartianRobots\MartianRobots\bin\Debug\netcoreapp3.1\MartianRobots.dll
+C:\Users\IGSabio\Desktop\martian-robots\MartianRobots\MartianRobots\bin\Debug\netcoreapp3.1\MartianRobots.pdb
+C:\Users\IGSabio\Desktop\martian-robots\MartianRobots\MartianRobots\bin\Debug\netcoreapp3.1\Dawn.Guard.dll
+C:\Users\IGSabio\Desktop\martian-robots\MartianRobots\MartianRobots\obj\Debug\netcoreapp3.1\MartianRobots.csproj.CoreCompileInputs.cache
+C:\Users\IGSabio\Desktop\martian-robots\MartianRobots\MartianRobots\obj\Debug\netcoreapp3.1\MartianRobots.csproj.CopyComplete
+C:\Users\IGSabio\Desktop\martian-robots\MartianRobots\MartianRobots\obj\Debug\netcoreapp3.1\MartianRobots.dll
+C:\Users\IGSabio\Desktop\martian-robots\MartianRobots\MartianRobots\obj\Debug\netcoreapp3.1\MartianRobots.pdb
+C:\Users\IGSabio\Desktop\martian-robots\MartianRobots\MartianRobots\obj\Debug\netcoreapp3.1\MartianRobots.genruntimeconfig.cache
