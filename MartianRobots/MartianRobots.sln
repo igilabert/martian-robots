@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30517.126
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MartianRobots", "MartianRobots\MartianRobots.csproj", "{0D24FE5A-5F00-41C1-A7D2-70FC824B051B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MartianRobotsTests", "MartianRobotsTests\MartianRobotsTests.csproj", "{7E3688AA-A2D3-4523-BCF6-BCF2EFA920CC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MartianRobots.Tests", "MartianRobotsTests\MartianRobots.Tests.csproj", "{7E3688AA-A2D3-4523-BCF6-BCF2EFA920CC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
